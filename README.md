@@ -1,2 +1,5 @@
 # dio_power_bi
-## Projetos do curso de PowerBI
+
+## Criando um Relatório de Vendas Elegante com Power BI
+
+
